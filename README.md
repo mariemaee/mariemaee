@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello there, I'm [Your Name]! 😺
 
-<!--
-**mariemaee/mariemaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+👩‍💻 Web developer and passionate about programming.
+🎓 Constant learner and always seeking personal growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+
+💻 HTML | CSS | JavaScript
+🌐 React | Node.js
+📱 Responsive Web Design
+🔧 Git | GitHub
+
+## My Projects
+
+🚀 [Project 1](project-link) - Brief description of the project.
+🌟 [Project 2](project-link) - Brief description of the project.
+
+## Find Me Online
+
+💼 [LinkedIn]www.linkedin.com/in/mariacañazaca 
+
+Feel free to reach out to me for any collaboration or exciting opportunities. Let's create amazing things together!
