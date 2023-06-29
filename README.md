@@ -1,4 +1,4 @@
-# Hello there, I'm [Your Name]! 😺
+# Hi there, I'm Maria! 😺
 
 ## About Me
 
