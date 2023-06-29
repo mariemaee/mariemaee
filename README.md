@@ -9,7 +9,7 @@ I am an enthusiastic learner and constantly seek opportunities to expand my know
 * 🌍  I'm based in Lima
 * 🖥️  See my portfolio at [mariemaee](http://aa)
 * ✉️  You can contact me at [pilarcanazacafernandez@gmail.com](mailto:pilarcanazacafernandez@gmail.com)
-* 🤝  I'm open to collaborating on I'm open to collaborate on projects where we can improve our skills
+* 🤝  I'm open to collaborate on projects where we can improve our skills
 
 ### Skills
 
